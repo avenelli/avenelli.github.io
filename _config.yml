@@ -15,7 +15,7 @@ github_username:  avenelli
 markdown: kramdown
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: mint
 
 permalink: /:categories/:title/
 
