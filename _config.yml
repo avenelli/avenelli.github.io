@@ -13,7 +13,8 @@ github_username:  avenelli
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 minimal_mistakes_skin: neon
 
 permalink: /:categories/:title/
