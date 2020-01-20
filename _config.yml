@@ -1,0 +1,96 @@
+title: "Dr. Alexandre Venelli"
+title_separator: "—"
+url: "https://avenelli.github.io"
+## To build the website locally, comment out the previous line and run
+## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
+## 'localhost:4000'.
+
+email: alexandre.venelli@gmail.com
+description: Personal website of Alexandre Venelli
+baseurl: "" # the subpath of your site, e.g. /blog
+repository: avenelli/avenelli.github.io
+github_username:  avenelli
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: neon
+
+permalink: /:categories/:title/
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+author:
+  name: "Alexandre Venelli"
+  bio: "_Cryptography enginner_"
+  location: "Toulouse, France"
+  google_scholar: T_jO6z8AAAAJ
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:alexandre.venelli@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://avenelli.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/avenelli"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alexandre-venelli-8bab4122"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:alexandre.venelli@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://avenelli.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/avenelli"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/alexandre-venelli-8bab4122"
+
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
+include: ["_pages"]
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-156544282-1"
+    anonymize_ip: false # default
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
