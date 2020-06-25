@@ -6,6 +6,8 @@ toc: true
 
 ## Conference and Journal Papers
 
+** Understanding Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Cryptology ePrint Archive 2020_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2020/757))
+
 **Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2020(1)_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8391), [code](https://github.com/gabzai/Methodology-for-efficient-CNN-architectures-in-SCA))
 
 **Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Cryptology ePrint Archive 2019_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2019/803))
