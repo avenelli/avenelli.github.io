@@ -6,6 +6,9 @@ toc: true
 
 ## Conference and Journal Papers
 
+
+**Ranking Loss: Maximizing the Success Rate in Deep Learning Side-Channel Analysis** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2021(1)_ -- Gabriel Zaid, Lilian Bossuet, François Dassance, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8726), [code](https://github.com/gabzai/Ranking-Loss-SCA))
+
 **Ranking Loss: Maximizing the Success Rate in Deep Learning Side-Channel Analysis** -- _IACR Cryptology ePrint Archive 2020_ -- Gabriel Zaid, Lilian Bossuet, François Dassance, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2020/872))
 
 **Understanding Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Cryptology ePrint Archive 2020_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2020/757))
