@@ -7,6 +7,9 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "octopress"
 gem "sassc"
+gem "kramdown", ">= 2.3.1"
+gem "redcarpet", ">= 3.5.1"
+
 
 group :jekyll_plugins do
    gem "jekyll-paginate"
