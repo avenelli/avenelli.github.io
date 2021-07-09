@@ -6,20 +6,15 @@ toc: true
 
 ## Conference and Journal Papers
 
+**Efficiency through Diversity in Ensemble Models applied to Side-Channel Attacks** -- _IACR Transactions on Cryptographic Hardware and Embedded Systems, 2021(3)_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2021 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8968), [eprint](https://eprint.iacr.org/2021/909), [code](https://github.com/gabzai/Ensembling-Loss-SCA))
 
-**Ranking Loss: Maximizing the Success Rate in Deep Learning Side-Channel Analysis** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2021(1)_ -- Gabriel Zaid, Lilian Bossuet, François Dassance, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8726), [code](https://github.com/gabzai/Ranking-Loss-SCA))
-
-**Ranking Loss: Maximizing the Success Rate in Deep Learning Side-Channel Analysis** -- _IACR Cryptology ePrint Archive 2020_ -- Gabriel Zaid, Lilian Bossuet, François Dassance, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2020/872))
+**Ranking Loss: Maximizing the Success Rate in Deep Learning Side-Channel Analysis** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2021(1)_ -- Gabriel Zaid, Lilian Bossuet, François Dassance, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8726), [eprint](https://eprint.iacr.org/2020/872), [code](https://github.com/gabzai/Ranking-Loss-SCA))
 
 **Understanding Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Cryptology ePrint Archive 2020_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2020/757))
 
-**Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2020(1)_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8391), [code](https://github.com/gabzai/Methodology-for-efficient-CNN-architectures-in-SCA))
+**Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2020(1)_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8391), [eprint](https://eprint.iacr.org/2019/803), [code](https://github.com/gabzai/Methodology-for-efficient-CNN-architectures-in-SCA))
 
-**Methodology for Efficient CNN Architectures in Profiling Attacks** -- _IACR Cryptology ePrint Archive 2019_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2020 ([paper](https://eprint.iacr.org/2019/803))
-
-**Deep Learning to Evaluate Secure RSA Implementations** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2019(2)_ -- Mathieu Carbone, Vincent Conin, Marie-Angela Cornelie, François Dassance, Guillaume Dufresne, Cécile Dumas, Emmanuel Prouff, Alexandre Venelli -- 2019 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/7388))
-
-**Deep Learning to Evaluate Secure RSA Implementations** -- _IACR Cryptology ePrint Archive 2019_ -- Mathieu Carbone, Vincent Conin, Marie-Angela Cornelie, François Dassance, Guillaume Dufresne, Cécile Dumas, Emmanuel Prouff, Alexandre Venelli -- 2019 ([paper](https://eprint.iacr.org/2019/054))
+**Deep Learning to Evaluate Secure RSA Implementations** -- _IACR Trans. Cryptogr. Hardw. Embed. Syst. 2019(2)_ -- Mathieu Carbone, Vincent Conin, Marie-Angela Cornelie, François Dassance, Guillaume Dufresne, Cécile Dumas, Emmanuel Prouff, Alexandre Venelli -- 2019 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/7388), [eprint](https://eprint.iacr.org/2019/054))
 
 **Side-Channel Analysis on Blinded Regular Scalar Multiplications** -- _INDOCRYPT 2014_ -- Benoit Feix, Mylène Roussellet, Alexandre Venelli -- 2014 ([paper](https://link.springer.com/chapter/10.1007/978-3-319-13039-2_1), [pdf]({{ site.baseurl }}/papers/Side-Channel Analysis on Blinded Regular Scalar Multiplications.pdf), [slides]({{ site.baseurl}}/slides/slides_indocrypt14 - venelli.pdf))
 
@@ -27,9 +22,7 @@ toc: true
 
 **Defeating with Fault Injection a Combined Attack Resistant Exponentiation** -- _COSADE 2013_ -- Benoit Feix, Alexandre Venelli -- 2013 ([paper](https://link.springer.com/chapter/10.1007/978-3-642-40026-1_3), [pdf]({{ site.baseurl }}/papers/Defeating with Fault Injection a Combined Attack Resistant Exponentiation.pdf), [slides]({{ site.baseurl }}/slides/slides_cosade13.pdf))
 
-**Combined Fault and Side-Channel Attacks on the AES Key Schedule** -- _FDTC 2012_ -- François Dassance, Alexandre Venelli -- 2012 ([paper](https://ieeexplore.ieee.org/document/6305230/), [pdf]({{ site.baseurl}}/papers/Combined Fault and Side-Channel Attacks on the AES Key Schedule.pdf), [slides]({{ site.baseurl }}/slides/slides_fdtc12.pdf))
-
-**Combined Fault and Side-Channel Attacks on the AES Key Schedule** -- _IACR Cryptology ePrint Archive 2012_ -- François Dassance, Alexandre Venelli -- 2012 ([paper](https://eprint.iacr.org/2012/098))
+**Combined Fault and Side-Channel Attacks on the AES Key Schedule** -- _FDTC 2012_ -- François Dassance, Alexandre Venelli -- 2012 ([paper](https://ieeexplore.ieee.org/document/6305230/), [eprint](https://eprint.iacr.org/2012/098), [pdf]({{ site.baseurl}}/papers/Combined Fault and Side-Channel Attacks on the AES Key Schedule.pdf), [slides]({{ site.baseurl }}/slides/slides_fdtc12.pdf))
 
 **AES side-channel countermeasure using random tower field constructions** -- _Des. Codes Cryptogr. 69(3)_ -- Alexis Bonnecaze, Pierre Liardet, Alexandre Venelli -- 2013 ([paper](https://link.springer.com/article/10.1007/s10623-012-9670-x), [pdf]( {{ site.baseurl }}/papers/AES side-channel countermeasure using random tower field constructions.pdf))
 
