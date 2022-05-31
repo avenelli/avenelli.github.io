@@ -4,11 +4,16 @@ title: "CV"
 toc: true
 ---
 
+<!--- 
 Here are PDF versions of my [CV (english)]({{ site.baseurl}}/docs/CV_Alexandre_Venelli_EN.pdf) & [CV (french)]({{ site.baseurl}}/docs/CV_Alexandre_Venelli_FR.pdf).
+--->
 
 ## Experience
 
-### _Jul 2014 -- currently_
+### _Apr 2021 -- currently_
+**Security architect**, NXP Semiconductors, Toulouse, FR
+
+### _Jul 2014 -- Mar 2021_
 **Security evaluator**, Thales Communications & Security, Toulouse, FR
 - Security evaluation of embedded products: smartcard, System On Chip
 - Vulnerability analysis, code reviews and physical penetration testing on components
@@ -40,6 +45,7 @@ Here are PDF versions of my [CV (english)]({{ site.baseurl}}/docs/CV_Alexandre_V
 
 ## Education
 
+- _2022_: **TCHES 2022**, Program Committee
 - _2008--2011_: **Thesis in embedded security**, Marseille, FR
 - _2006--2007_: **Master 2 Research Mathematics Cryptography Codes Calculus**, Limoges, FR
 - _2005--2006_: **Master 1 Computer science**, Toulon, FR
