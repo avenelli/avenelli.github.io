@@ -6,7 +6,7 @@ toc: true
 
 ## Conference and Journal Papers
 
-**Conditional Variational AutoEncoder based on Stochastic Attack** -- _IACR Cryptology ePrint Archive 2020_ -- Gabriel Zaid, Lilian Bossuet, Mathieu Carbone, Amaury Habrard, Alexandre Venelli -- 2022 ([paper](https://eprint.iacr.org/2022/232.pdf))
+**Conditional Variational AutoEncoder based on Stochastic Attack** -- _IACR Transactions on Cryptographic Hardware and Embedded Systems, 2023(2)_ -- Gabriel Zaid, Lilian Bossuet, Mathieu Carbone, Amaury Habrard, Alexandre Venelli -- 2023 ([paper](https://doi.org/10.46586/tches.v2023.i2.310-357), [eprint](https://eprint.iacr.org/2022/232.pdf), [code](https://github.com/gabzai/Conditional-Variational-Autoencoder-based-Stochastic-Attacks))
 
 **Efficiency through Diversity in Ensemble Models applied to Side-Channel Attacks** -- _IACR Transactions on Cryptographic Hardware and Embedded Systems, 2021(3)_ -- Gabriel Zaid, Lilian Bossuet, Amaury Habrard, Alexandre Venelli -- 2021 ([paper](https://tches.iacr.org/index.php/TCHES/article/view/8968), [eprint](https://eprint.iacr.org/2021/909), [code](https://github.com/gabzai/Ensembling-Loss-SCA))
 
